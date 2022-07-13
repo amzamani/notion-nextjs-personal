@@ -1,6 +1,6 @@
 {
-  "name": "Transitive Bullshit",
-  "short_name": "Transitive BS",
+  "name": "Abu Musaddiq Zamani",
+  "short_name": "AMZ",
   "icons": [
     {
       "src": "/favicon-16x16.png",
@@ -18,7 +18,7 @@
       "sizes": "96x96"
     },
     {
-      "src": "/apple-touch-icon.png",
+      "src": "/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "180x180"
     },

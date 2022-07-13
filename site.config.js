@@ -1,8 +1,8 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
 
-  rootNotionPageId: 'd3924321ce6b4f909b03ab1f6b8f2f55',
-  // rootNotionPageId: '40ed7d3dfa034bf6ae964cda57a97360',
+  // rootNotionPageId: 'd3924321ce6b4f909b03ab1f6b8f2f55',
+  rootNotionPageId: '40ed7d3dfa034bf6ae964cda57a97360',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,11 +10,11 @@ module.exports = {
 
   // basic site info (required)
   name: 'Abu Musaddiq Zamani',
-  domain: 'toffeemoney.com',
+  domain: 'zamani.tech',
   author: 'Abu Musaddiq Zamani',
 
   // open graph metadata (optional)
-  description: 'Elegant Site',
+  description: 'Abu Musaddiq Zamani - Portfolio',
   // socialImageTitle: 'Islem Maboud Aka CoderOne',
   // socialImageSubtitle: 'Hello World! 👋',
 
