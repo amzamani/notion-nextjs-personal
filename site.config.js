@@ -15,11 +15,11 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Abu Musaddiq Zamani - Portfolio',
-  // socialImageTitle: 'Islem Maboud Aka CoderOne',
+  socialImageTitle: 'Zamani.tech',
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'amzamanidotme',
+  twitter: 'zamanidottech',
   github: 'amzamani',
   linkedin: 'amzamani',
 
