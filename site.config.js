@@ -19,7 +19,7 @@ module.exports = {
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'zamanidottech',
+  twitter: 'zamanitechlab',
   github: 'amzamani',
   linkedin: 'amzamani',
 
