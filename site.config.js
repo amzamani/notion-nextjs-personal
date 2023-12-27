@@ -10,18 +10,18 @@ module.exports = {
 
   // basic site info (required)
   name: 'Abu Musaddiq Zamani',
-  domain: 'zamani.tech',
+  domain: 'zamanitech.in',
   author: 'Abu Musaddiq Zamani',
 
   // open graph metadata (optional)
-  description: 'Abu Musaddiq Zamani - Portfolio',
-  socialImageTitle: 'Zamani.tech',
+  description: 'Zamani Tech Ventures Pvt Ltd',
+  socialImageTitle: 'ZamaniTech.in',
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'zamanitechlab',
+  twitter: 'zamanitech_in',
   github: 'amzamani',
-  linkedin: 'amzamani',
+  linkedin: 'zamanitech',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
