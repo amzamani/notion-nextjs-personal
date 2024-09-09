@@ -15,13 +15,13 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Zamani Tech Ventures Pvt Ltd',
-  socialImageTitle: 'ZamaniTech.in',
+  socialImageTitle: 'askfromdata.com',
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'znap_in',
   // github: 'amzamani',
-  linkedin: 'company/znap-products/',
+  // linkedin: 'company/znap-products/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
