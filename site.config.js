@@ -9,8 +9,8 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Abu Musaddiq Zamani',
-  domain: 'zamanitech.in',
+  name: 'AskFromData :  making data analysis accessible to everyone',
+  domain: 'askfromdata.com',
   author: 'Abu Musaddiq Zamani',
 
   // open graph metadata (optional)
@@ -19,9 +19,9 @@ module.exports = {
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'zamanitech_in',
-  github: 'amzamani',
-  linkedin: 'zamanitech',
+  twitter: 'znap_in',
+  // github: 'amzamani',
+  linkedin: 'company/znap-products/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
